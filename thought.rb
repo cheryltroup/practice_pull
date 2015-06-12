@@ -1,0 +1,1 @@
+puts 'I am happy to be moving into the project phase of my apprenticeship!'
